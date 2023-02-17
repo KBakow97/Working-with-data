@@ -3,6 +3,7 @@ Chciałbym w tym repozytorium pokazać projekty, które zrobiłę przy uzyciu ta
 * Pandas
 * Numpy
 * Matplotlib
+* Sckit-Learn
 
  Wykonywane są one aktualnie przy użyciu Conda oraz Jupyter Notebook.
  Wewnątrz projektu podane są linki do pobrania paczki danych na których pracowałem.
