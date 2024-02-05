@@ -1,10 +1,8 @@
-### Projekty
-Chciałbym w tym repozytorium pokazać projekty, które zrobiłem przy uzyciu takich narzędzi jak: 
+### Projects
+I would like to showcase projects within this repository that I have developed using tools such as:
+
 * Pandas
 * Numpy
 * Matplotlib
-* Sckit-Learn
-
- Wykonywane są one aktualnie przy użyciu Conda oraz Jupyter Notebook.
- Wewnątrz projektu podane są linki do pobrania paczki danych na których pracowałem.
- Opis jest w języku Polskim oraz Angielskim. Zmienne i działania na kodzie zawsze są w języku Angielskim.
+* Scikit-Learn
+These projects are currently executed using Conda and Jupyter Notebook. Within each project, links are provided to download the data packages on which I worked.
